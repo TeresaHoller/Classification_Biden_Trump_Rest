@@ -34,7 +34,7 @@ more libraries in requirements.txt
 
 Link to Server based solution: https://colab.research.google.com/drive/1XddyiCj3Nmfq4TwyUMUy-QCypaRPkoaI?usp=sharing
 
-The datasets that were used in this project can be found in the data folder.
+The datasets that were used in this project can be found in the **data** folder.
 
 The final splits of the data (train, dev and test) can also be found in this folder.
 
