@@ -16,8 +16,12 @@ pip install -r requirements.txt
 ```
 ## Necessary Tools and libraries
 
-pandas \n
+pandas
+
 datasets
+
 matplotlib
+
 transformers
+
 more libraries in requirements.txt
