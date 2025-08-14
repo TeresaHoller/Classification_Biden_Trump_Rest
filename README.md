@@ -36,7 +36,7 @@ The datasets that were used in this project can be found in the data folder.
 
 The final splits of the data (train, dev and test) can also be found in this folder.
 
-Link to the Huggingface dataset that was used for ai-generated speeches: https://huggingface.co/datasets/ibm-research/debate_speeches
+Link to the Huggingface dataset that was used for ai-generated speeches: https://huggingface.co/datasets/ibm-research/debate_speeches (source "Speech-GPT2" was used)
 
 ## Author
 
