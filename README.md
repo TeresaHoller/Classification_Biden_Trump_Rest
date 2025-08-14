@@ -38,4 +38,6 @@ The tokenized datasets for each model can also be found in this folder. The file
 
 ## Author
 
-Teresa Holler  teresa.holler@stud.uni-regensburg.de
+Teresa Holler
+
+teresa.holler@stud.uni-regensburg.de
