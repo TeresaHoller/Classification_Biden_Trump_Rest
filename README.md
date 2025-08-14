@@ -25,3 +25,7 @@ matplotlib
 transformers
 
 more libraries in requirements.txt
+
+## Author
+
+Teresa Holler  teresa-holler@stud.uni-regensburg.de
