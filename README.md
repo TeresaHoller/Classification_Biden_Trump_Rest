@@ -34,7 +34,7 @@ more libraries in requirements.txt
 
 The datasets that were used in this project can be found in the data folder.
 
-The tokenized datasets for each model can also be found in this folder. The file names for the tokenized datasets are: dataset_tokenized_"modelname"
+The final splits of the data (train, dev and test) can also be found in this folder.
 
 ## Author
 
