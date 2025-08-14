@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ## Necessary Tools and libraries
 
-pandas
+pandas \n
 datasets
 matplotlib
 transformers
