@@ -7,11 +7,13 @@ Classification with zero shot classification, BERT, DistilBERT and ModernBERT on
 ```bash
 git clone https://github.com/TeresaHoller/Classification_Biden_Trump_Rest.git
 cd Classification_Biden_Trummp_Rest
+```
 
 2. Install dependencies:
 
+```bash
 pip install -r requirements.txt
-
+```
 ## Necessary Tools and libraries
 
 pandas
