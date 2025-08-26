@@ -32,7 +32,7 @@ more libraries in requirements.txt
 
 ## Usage
 
-Link to Server based solution: https://colab.research.google.com/drive/1XddyiCj3Nmfq4TwyUMUy-QCypaRPkoaI?usp=sharing
+Link to Server based solution: https://colab.research.google.com/drive/1Famyr2xHIFIrY4J3Y-RTBxuy-HqrR8Qp?usp=sharing
 
 The datasets that were used in this project can be found in the **data** folder.
 
